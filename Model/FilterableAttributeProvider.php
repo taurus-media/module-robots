@@ -1,4 +1,7 @@
 <?php
+/**
+ * Copyright (c) 2026. Taurus. All rights reserved
+ */
 
 namespace Taurus\Robots\Model;
 
