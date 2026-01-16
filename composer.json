@@ -1,0 +1,21 @@
+{
+  "name": "taurus-media/module-robots",
+  "version": "1.0.0",
+  "description": "Add filterable attributes to robots.txt in Magento 2",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "magento/module-robots": "^101.1"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Taurus\\Robots\\": ""
+    }
+  }
+}
