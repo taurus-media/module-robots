@@ -8,7 +8,7 @@
     "magento/module-robots": "^101.1"
   },
   "license": [
-    "Proprietary"
+    "MIT"
   ],
   "autoload": {
     "files": [
